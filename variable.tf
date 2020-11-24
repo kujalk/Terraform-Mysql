@@ -15,7 +15,7 @@ variable "ec2type" {
 }
 
 variable "rootpass" {
-  default = "Mersal@123"
+  default = "PAssword@123"
 }
 
 variable "dbuser" {
